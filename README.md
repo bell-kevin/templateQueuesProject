@@ -6,6 +6,7 @@ The result should look like this:
 ch18-queue.PNG
 
 Use this data:
+
        technology phrase = technology is everywhere
        
        programming phrase = programming is an exciting career
