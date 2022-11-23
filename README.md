@@ -3,7 +3,7 @@ In the book (page 1106), there is code for a dynamic queue of integers. Convert 
 
 The result should look like this:
 
-ch18-queue.PNG
+![ch18-queue.PNG](https://github.com/bell-kevin/templateQueuesProject/blob/main/template.PNG)
 
 Use this data:
 
